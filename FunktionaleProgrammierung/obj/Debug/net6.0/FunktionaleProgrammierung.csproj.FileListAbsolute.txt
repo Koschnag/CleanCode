@@ -1,0 +1,15 @@
+C:\Users\ccvnguyen\RiderProjects\FunktionaleProgrammierung\FunktionaleProgrammierung\bin\Debug\net6.0\FunktionaleProgrammierung.exe
+C:\Users\ccvnguyen\RiderProjects\FunktionaleProgrammierung\FunktionaleProgrammierung\bin\Debug\net6.0\FunktionaleProgrammierung.deps.json
+C:\Users\ccvnguyen\RiderProjects\FunktionaleProgrammierung\FunktionaleProgrammierung\bin\Debug\net6.0\FunktionaleProgrammierung.runtimeconfig.json
+C:\Users\ccvnguyen\RiderProjects\FunktionaleProgrammierung\FunktionaleProgrammierung\bin\Debug\net6.0\FunktionaleProgrammierung.dll
+C:\Users\ccvnguyen\RiderProjects\FunktionaleProgrammierung\FunktionaleProgrammierung\bin\Debug\net6.0\FunktionaleProgrammierung.pdb
+C:\Users\ccvnguyen\RiderProjects\FunktionaleProgrammierung\FunktionaleProgrammierung\obj\Debug\net6.0\FunktionaleProgrammierung.csproj.AssemblyReference.cache
+C:\Users\ccvnguyen\RiderProjects\FunktionaleProgrammierung\FunktionaleProgrammierung\obj\Debug\net6.0\FunktionaleProgrammierung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccvnguyen\RiderProjects\FunktionaleProgrammierung\FunktionaleProgrammierung\obj\Debug\net6.0\FunktionaleProgrammierung.AssemblyInfoInputs.cache
+C:\Users\ccvnguyen\RiderProjects\FunktionaleProgrammierung\FunktionaleProgrammierung\obj\Debug\net6.0\FunktionaleProgrammierung.AssemblyInfo.cs
+C:\Users\ccvnguyen\RiderProjects\FunktionaleProgrammierung\FunktionaleProgrammierung\obj\Debug\net6.0\FunktionaleProgrammierung.csproj.CoreCompileInputs.cache
+C:\Users\ccvnguyen\RiderProjects\FunktionaleProgrammierung\FunktionaleProgrammierung\obj\Debug\net6.0\FunktionaleProgrammierung.dll
+C:\Users\ccvnguyen\RiderProjects\FunktionaleProgrammierung\FunktionaleProgrammierung\obj\Debug\net6.0\refint\FunktionaleProgrammierung.dll
+C:\Users\ccvnguyen\RiderProjects\FunktionaleProgrammierung\FunktionaleProgrammierung\obj\Debug\net6.0\FunktionaleProgrammierung.pdb
+C:\Users\ccvnguyen\RiderProjects\FunktionaleProgrammierung\FunktionaleProgrammierung\obj\Debug\net6.0\FunktionaleProgrammierung.genruntimeconfig.cache
+C:\Users\ccvnguyen\RiderProjects\FunktionaleProgrammierung\FunktionaleProgrammierung\obj\Debug\net6.0\ref\FunktionaleProgrammierung.dll

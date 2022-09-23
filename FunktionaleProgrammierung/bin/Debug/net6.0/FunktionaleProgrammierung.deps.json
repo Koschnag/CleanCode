@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FunktionaleProgrammierung/1.0.0": {
+        "runtime": {
+          "FunktionaleProgrammierung.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FunktionaleProgrammierung/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
