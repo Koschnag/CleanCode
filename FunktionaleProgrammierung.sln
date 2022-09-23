@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunktionaleProgrammierung", "FunktionaleProgrammierung\FunktionaleProgrammierung.csproj", "{1574AE7B-90DB-4406-865A-C5B22402E728}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrinciple", "DependencyInversionPrinciple\DependencyInversionPrinciple.csproj", "{E47E2C52-B5FD-4AC2-879A-DEB57A0233C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{1574AE7B-90DB-4406-865A-C5B22402E728}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1574AE7B-90DB-4406-865A-C5B22402E728}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1574AE7B-90DB-4406-865A-C5B22402E728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E47E2C52-B5FD-4AC2-879A-DEB57A0233C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47E2C52-B5FD-4AC2-879A-DEB57A0233C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47E2C52-B5FD-4AC2-879A-DEB57A0233C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47E2C52-B5FD-4AC2-879A-DEB57A0233C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
